@@ -1,0 +1,3 @@
+SRC += muse.c
+MOUSE_ENABLE = yes
+RGBLIGHT_ENABLE = no
